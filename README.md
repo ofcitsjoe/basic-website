@@ -1,2 +1,2 @@
 # mini-project-css
-A mini project I made using HTML and vanilla CSS
+A simple frontend website I made using HTML and vanilla CSS
